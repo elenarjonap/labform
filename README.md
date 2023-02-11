@@ -2,7 +2,7 @@
 
 Práctica de formulario para crear una cuenta ficticia de acceso a una página web.
 
-Validaciones: 
+## Validaciones: 
     - Todos los campos deberán ser obligatorios.
     - El campo Nombre deberá ser de tipo texto.
     - El campo Email deberá ser de tipo 'email'.
